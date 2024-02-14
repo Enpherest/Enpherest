@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enpherest
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Open Source DAW's and generating graphics from .txt files
 - 🌱 I’m currently learning ... html, javascript, lua, and python
-- 💞️ I’m looking to collaborate on ... generated graphics from .txt files
+- 💞️ I’m looking to collaborate on ... anything SSBM related
 - 📫 How to reach me ... enpherest@gmail.com
 
 <!---
